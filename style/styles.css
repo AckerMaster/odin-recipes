@@ -1,0 +1,21 @@
+* {
+
+    font-family:"Monaco", Verdana, "Geneva", Tahoma, sans-serif;
+    background-color: rgb(237, 244, 251);
+    text-align: center;
+
+}
+
+h1 {
+
+    font-size: 100px;
+    font-weight: 800;
+    color: rgb(58, 131, 171);
+}
+
+li {
+
+    font-size: 60px;
+    line-height: 1.5;
+    list-style: none;
+}
